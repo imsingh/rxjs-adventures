@@ -1,0 +1,33 @@
+{
+  "name": "rxjs-adventure",
+  "version": "0.0.1",
+  "description": "RxJS Adventure Workshop tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "rxjsing": "./bin/rxjsing.js"
+  },
+  "repository" :{
+    "url" : "https://github.com/imsingh/rxjsing.git"
+  },
+  "keywords": [
+    "rxjs",
+    "tutorial",
+    "workshop",
+    "javascript",
+    "functional",
+    "programming"
+  ],
+  "author": "Indermohan Singh",
+  "license": "ISC",
+  "dependencies": {
+    "after": "^0.8.2",
+    "path": "^0.12.7",
+    "rxjs": "^5.5.6",
+    "workshopper-adventure": "^6.0.3",
+    "workshopper-exercise": "^3.0.1",
+    "xtend": "^4.0.1"
+  }
+}
